@@ -18,7 +18,7 @@ This project demonstrates how to use JavaScript to display dynamic data in JSX, 
 
 1. **Clone the repository** (or download the project):
    ```bash
-   git clone https://github.com/your-username/current-year-display.git
+   git clone https://jbolan12.github.io/JS-Expressions-in-JSX-Practice/
    cd current-year-display
 
 
